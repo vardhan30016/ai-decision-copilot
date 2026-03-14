@@ -15,3 +15,9 @@ AI-powered decision support system that analyzes datasets and generates business
 - Streamlit
 - Pandas
 - OpenAI API
+
+## Live Demo
+
+Try the application here:
+
+https://vardhan30016-ai-decision-copilot-ai-decision-copilotapp-bc0nhm.streamlit.app/
